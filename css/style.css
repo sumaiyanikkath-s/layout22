@@ -1,0 +1,268 @@
+
+.headera .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.portfolio .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.company .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.paritur .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.logoa .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.lp .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.paritura .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.website .wrapper
+{
+	width:80%;
+	margin:auto;
+} 
+ .headera
+{
+	background-color:gray;
+	height:81px;
+}
+.headera .headera-fc
+{
+	display:flex;
+	height:81px;
+	justify-content:space-between;
+}
+.headera .headera-fc .heada
+{
+	background-color:darkorchid;
+	height:40px;
+	width:15%;
+	margin-top:10px;
+}
+.headera .headera-fc .headb
+{
+	background-color:darkorchid;
+	height:40px;
+	width:15%;
+	margin-top:15px;
+}
+.portfolio
+{
+	background-color:lightskyblue;
+	height:600px;
+}
+.portfolio .portfolio-fc
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:start-end;
+}
+.portfolio .portfolio-fc .textport
+{
+	text-align:center;
+	width:100%;
+	margin-top:10px;
+}
+.portfolio .portfolio-fc .porta
+{
+	background-color:white;
+	height:250px;
+	width:31%;
+	margin-top:30px;
+}
+.portfolio .portfolio-fc .portb
+{
+	background-color:blue;
+	height:250px;
+	width:31%;
+	margin-top:30px;
+}
+.portfolio .portfolio-fc .portc
+{
+	background-color:white;
+	height:250px;
+	width:31%;
+	margin-top:30px;
+}
+.portfolio .portfolio-fc .portd
+{
+	background-color:blue;
+	height:250px;
+	width:31%;
+	margin-top:30px;
+}
+.portfolio .portfolio-fc .porte
+{
+	background-color:white;
+	height:250px;
+	width:31%;
+	margin-top:30px;
+}
+.portfolio .portfolio-fc .portf
+{
+	background-color:blue;
+	height:250px;
+	width:31%;
+	margin-top:30px;
+}
+.company 
+{
+	background-color:navy;
+	height:400px;
+}
+.company .company-fc 
+{
+	display:flex;
+	justify-content:space-evenly;
+	flex-direction:row;
+}
+.company .company-fc  .ca
+{
+	background-color:white;
+	height:170px;
+	width:22%;
+	margin-top:40px;
+}
+.company .company-fc  .cb
+{
+	background-color:pink;
+	height:170px;
+	width:22%;
+	margin-top:40px;
+}
+.company .company-fc  .cc
+{
+	background-color:white;
+	height:170px;
+	width:22%;
+	margin-top:40px;
+}
+.company .company-fc  .cd
+{
+	background-color:pink;
+	height:170px;
+	width:22%;
+	margin-top:40px;
+}
+.paritur
+{
+	background-color:plum;
+	height:500px;
+}
+.paritur .paritur-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-between;
+} 
+.paritur .paritur-fc .pbox
+{
+    background-color:white;
+	width:45%;
+	height:400px;
+	margin-top:25px;
+}
+.paritur .paritur-fc .ptext
+{
+	text-align:center;
+    margin-top:25px;
+}
+.logoa
+{
+	background-color:lightskyblue;
+	height:500px;
+}
+.logoa .logoa-fc
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:center;
+}
+.logoa .logoa-fc .lb
+{
+	background-color:violet;
+	height:400px;
+	width:50%;
+	margin-top:50px;
+}
+.lp
+{
+	background-color:violet;
+	height:300px;
+}
+.lp .lp-fc
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:center;
+	
+}
+.lp .lp-fc .lpb
+{
+	background-color:lightskyblue;
+	height:200px;
+	width:50%;
+	margin-top:50px;
+}
+.paritura
+{
+	background-color:blue;
+	height:500px;
+}
+.paritura .paritura-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-between;
+} 
+.paritura .paritura-fc .pbox
+{
+    background-color:lightpink;
+	width:45%;
+	height:400px;
+	margin-top:25px;
+}
+.paritura .paritura-fc .ptext
+{
+	text-align:center;
+    margin-top:25px;
+	width:45%;
+}
+.website
+{
+	background-color:lightskyblue;
+	height:100px;
+}
+.website .website-fc
+{
+	display:flex;
+	justify-content:center;
+}
+.website .website-fc .copyrighta
+{
+	background-color:violet;
+	width:25%;
+	height:35px;
+	margin-top:50px;
+}
