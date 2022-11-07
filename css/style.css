@@ -24,7 +24,7 @@
 	width:80%;
 	margin:auto;
 }
-.lp .wrapper
+.logob .wrapper
 {
 	width:80%;
 	margin:auto;
@@ -126,7 +126,7 @@
 }
 .company 
 {
-	background-color:navy;
+	background-color:lime;
 	height:400px;
 }
 .company .company-fc 
@@ -135,28 +135,28 @@
 	justify-content:space-evenly;
 	flex-direction:row;
 }
-.company .company-fc  .ca
+.company .company-fc  .boxa
 {
 	background-color:white;
 	height:170px;
 	width:22%;
 	margin-top:40px;
 }
-.company .company-fc  .cb
+.company .company-fc  .boxb
 {
 	background-color:pink;
 	height:170px;
 	width:22%;
 	margin-top:40px;
 }
-.company .company-fc  .cc
+.company .company-fc  .boxc
 {
 	background-color:white;
 	height:170px;
 	width:22%;
 	margin-top:40px;
 }
-.company .company-fc  .cd
+.company .company-fc  .boxd
 {
 	background-color:pink;
 	height:170px;
@@ -198,19 +198,19 @@
 	flex-wrap:wrap;
 	justify-content:center;
 }
-.logoa .logoa-fc .lb
+.logoa .logoa-fc .logo
 {
 	background-color:violet;
 	height:400px;
 	width:50%;
 	margin-top:50px;
 }
-.lp
+.logob
 {
 	background-color:violet;
 	height:300px;
 }
-.lp .lp-fc
+.logob .logob-fc
 {
 	display:flex;
 	flex-direction:row;
@@ -218,7 +218,7 @@
 	justify-content:center;
 	
 }
-.lp .lp-fc .lpb
+.logob .logob-fc .logob
 {
 	background-color:lightskyblue;
 	height:200px;
@@ -227,7 +227,7 @@
 }
 .paritura
 {
-	background-color:blue;
+	background-color:plum;
 	height:500px;
 }
 .paritura .paritura-fc
@@ -236,14 +236,14 @@
 	flex-direction:row;
 	justify-content:space-between;
 } 
-.paritura .paritura-fc .pbox
+.paritura .paritura-fc .boxa
 {
-    background-color:lightpink;
+    background-color:white;
 	width:45%;
 	height:400px;
 	margin-top:25px;
 }
-.paritura .paritura-fc .ptext
+.paritura .paritura-fc .texta
 {
 	text-align:center;
     margin-top:25px;
